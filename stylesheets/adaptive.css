@@ -23,7 +23,7 @@
 }
 
 @media screen and (max-width: 414px) {
-    #abt_poster1{
+    #abt_poster2{
         font-family: "IBM Plex Mono", monospace;
         font-style: normal;
         line-height: 5vw;
@@ -73,7 +73,7 @@
         margin-top: 2%;
     }
 
-    #abt_poster1{
+    #abt_poster2{
         font-family: "IBM Plex Mono", monospace;
         font-style: normal;
         line-height: 5vw;
